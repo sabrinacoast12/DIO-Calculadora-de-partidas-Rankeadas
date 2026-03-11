@@ -34,3 +34,4 @@ let derrotas = 30
 let resultado = calcularRank(vitorias, derrotas)
 
 console.log("O Herói tem de saldo de " + resultado.saldoVitorias + " está no nível de " + resultado.nivel)
+
